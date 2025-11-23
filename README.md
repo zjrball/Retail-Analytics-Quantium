@@ -1,4 +1,5 @@
 # Retail Strategy & Analytics Project 
+
 #### 🚧 WORK IN PROGRESS 🚧
 
 ## Table of Contents
@@ -43,15 +44,13 @@ I am currently working through the following three distinct modules:
 
 ## Tools & Skills
 
-Language: R (focusing on tidyverse and ggplot2)
+* Language: R (focusing on tidyverse and ggplot2)
 
-Key Concepts: * Customer Segmentation
-
-A/B Testing & Control Store Selection
-
-Pyramid Principle Communication
-
-Data Visualization
+#### Key Concepts: 
+* Customer Segmentation
+* A/B Testing & Control Store Selection
+* Pyramid Principle Communication
+* Data Visualization
 
 ## Repository Structure
 
