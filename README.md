@@ -56,19 +56,17 @@ I am currently working through the following three distinct modules:
 
 The code is organized by task to mirror the project workflow:
 
-├── data/   
-│                   
+```
+├── data/         
 ├── task1_prep_and_analysis/    
 │   ├── 01_qt1.html              
 │   └── 02_qt1.Rmd
-│
 ├── task2_uplift_testing/       
 │   ├── 01_
 │   └── 02_
-│
 ├── task3_reporting/            
 └── README.md                  
-
+```
 
 ## Data Privacy
 
