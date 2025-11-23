@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Project Overview](#project-overview)
+* [Data](#data)
 * [Project Roadmap](#project-roadmap)
 * [Tools & Skills](#tools--skills)
 * [Repository Structure](#repository-structure)
