@@ -56,7 +56,7 @@ I am currently working through the following three distinct modules:
 
 The code is organized by task to mirror the project workflow:
 
-├── data/                       # Raw transaction datasets 
+├── data/                      
 ├── task1_prep_and_analysis/    
 │   ├── 01_qt1.html              
 │   └── 02_qt1.Rmd
