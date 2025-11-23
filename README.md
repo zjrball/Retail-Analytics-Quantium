@@ -16,6 +16,25 @@ Goal: To analyze customer transaction data and evaluate the financial impact of 
 
 This project simulates a real-world engagement where I act as a data analyst helping a retailer optimize their sales strategy. It moves from initial data cleaning to statistical experimentation (A/B testing) and finally to commercial reporting.
 
+## Data 
+The analysis is based on the following simulated datasets provided by the internship program:
+
+1. Transaction Data (QVI_transaction_data.xlsx)  
+
+    Rows: ~264,836 records  
+
+    Key Variables: `DATE`, `STORE_NBR`, `LYLTY_CARD_NBR`, `TXN_ID`, `PROD_NAME`, `PROD_QTY`, `TOT_SALES`  
+
+    Context: Detailed records of individual customer purchases, focusing on chip/snack categories.  
+
+2. Customer Data (QVI_purchase_behaviour.csv)  
+
+    Rows: ~72,637 records  
+
+    Key Variables: `LYLTY_CARD_NBR`, `LIFESTAGE` (e.g., Young Singles/Couples), `PREMIUM_CUSTOMER` (e.g., Budget, Mainstream).  
+
+    Context: Demographic details used for segmenting customers into groups for behavioral analysis.
+
 ## Project Roadmap
 
 I am currently working through the following three distinct modules:
@@ -71,6 +90,8 @@ The code is organized by task to mirror the project workflow:
 ## Data Privacy
 
 This project uses a simulated dataset provided by the virtual internship program. No actual proprietary client data is included.
+
+---
 
 ## Acknowledgement
 
