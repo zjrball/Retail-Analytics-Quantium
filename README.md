@@ -81,6 +81,7 @@ The code is organized by task to mirror the project workflow:
 ├── task1_prep_and_analysis/    
 │   ├── 01_qt1.html              # Download file and open in browser
 │   └── 02_qt1.Rmd               # Standard R markdown file
+│   └── 03_qt1-code.R            # R code without markdown/conclusions
 ├── task2_uplift_testing/       
 │   ├── 01_
 │   └── 02_
